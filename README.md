@@ -9,7 +9,7 @@
 - 🕘 GMT + 05:30/ EST + 09:30
 
 ##### Contacts
-- <a href="https://discord.com/"><img src="https://github.com/DevTenga/DevTenga/blob/main/logos/Discord-Logo-Color.png" alt="Discord"></a> **Tenga#2614**
+- <a href="https://discord.com/"><img src="https://github.com/DevTenga/DevTenga/blob/main/logos/Discord-Logo-Color.png" alt="Discord"></a>Tenga#2614
 <!--- 🌱 I’m currently learning languages such as C, C++, C#, JS, etc. 
 - 💞️ I’m looking to collaborate on roblox projects, usually short-termed. 
 
