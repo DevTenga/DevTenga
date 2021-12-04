@@ -1,8 +1,18 @@
-- 👋 Hi, I’m @DevTenga. I'm a 16 year old lua/node.js developer. 
+# DevTenga
+### Anurag Tewary
 
-- 🌱 I’m currently learning languages such as C, C++, C#, JS, etc. 
+- 👋 I’m DevTenga (Anurag Tewary).
+- 📆 May 23, 2006.
+
+
+##### Timezone
+- 🕘 GMT + 05:30/ EST + 09:30
+
+##### Contacts
+- <a href="https://discord.com/"><img src="https://github.com/DevTenga/DevTenga/blob/main/logos/Discord-Logo-Color.png" alt="Discord"></a> **Tenga#2614**
+<!--- 🌱 I’m currently learning languages such as C, C++, C#, JS, etc. 
 - 💞️ I’m looking to collaborate on roblox projects, usually short-termed. 
-- 🕘 My Timezone is GMT + 05:30/ EST + 09:30
+
 - 📫 How to reach me: You can contact me via Discord on DevTenga#5570.
 - 🤔 If you have any questions or suggestions, please do not hesistate to reach out to me 😄.
 
