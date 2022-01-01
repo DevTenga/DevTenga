@@ -9,18 +9,17 @@
 
 ## Tools & Languages I Use:
 
-##### Languages:
-<a href="https://oracle.com/java/"><img src="https://img.shields.io/badge/-Java-f8981d?logo=java&style=flat-square&logoColor=5382a1"></a>
+##### Languages & Frameworks:
+<a href="https://daringfireball.net/projects/markdown/"><img src="https://img.shields.io/badge/Markdown-black?logo=markdown&style=for-the-badge" alt="Markdown"></a>
+<a href="https://https://www.gnu.org/software/bash/"><img src="https://img.shields.io/badge/Bash-gray?logo=gnubash&style=for-the-badge&logoColor=white" atl="Bash"> </a>
+<a href="https://node.js.org/"><img src="https://img.shields.io/badge/NodeJS-gray?logo=nodedotjs&style=for-the-badge" alt="NodeJS"></a>
+<a href="https://lua.org/"><img src="https://img.shields.io/badge/Lua-b1b1b1?logo=lua&style=for-the-badge&logoColor=0000ff" alt="Lua"></a>
+<a href="https://oracle.com/java/"><img src="https://img.shields.io/badge/Java-f8981d?logo=java&style=for-the-badge" alt="Java"></a>
+<a href="https://ansi.org/"><img src="https://img.shields.io/badge/ANSI%20C-1ca4d9?logo=c&style=for-the-badge&logoColor=1149CD" alt="ANSI C"></a>
+<a href="https://esolangs.org/wiki/Brainfuck/"><img src="https://img.shields.io/badge/Brainf%2a%2ak-red?logo=brain&style=for-the-badge"></a>
+##### Tools:
+<
+
 
 ##### Contacts
-- <!---<a href="https://discord.com/"><img src="https://github.com/DevTenga/DevTenga/blob/main/logos/Discord-Logo-Color.png" alt="Discord"></a>---> Discord: Tenga#2614
-<!--- 🌱 I’m currently learning languages such as C, C++, C#, JS, etc. 
-- 💞️ I’m looking to collaborate on roblox projects, usually short-termed. 
-
-- 📫 How to reach me: You can contact me via Discord on DevTenga#5570.
-- 🤔 If you have any questions or suggestions, please do not hesistate to reach out to me 😄.
-
-<!---
-DevTenga/DevTenga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<a href="https://discord.com/"><img src="https://img.shields.io/badge/Discord-Anurag____%231000-36393f?logo=discord&style=flat&logoColor=ffffff&labelColor=5662f6" alt="Discord"></a>
