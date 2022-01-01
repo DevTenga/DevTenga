@@ -4,9 +4,13 @@
 - 👋 I’m DevTenga (Anurag Tewary).
 - 📆 May 23, 2006.
 
-
 ##### Timezone
 - 🕘 GMT + 05:30/ EST + 09:30
+
+## Tools & Languages I Use:
+
+##### Languages:
+<a href="https://oracle.com/java/"><img src="https://img.shields.io/badge/-Java-f8981d?logo=java&style=flat-square&logoColor=5382a1"></a>
 
 ##### Contacts
 - <!---<a href="https://discord.com/"><img src="https://github.com/DevTenga/DevTenga/blob/main/logos/Discord-Logo-Color.png" alt="Discord"></a>---> Discord: Tenga#2614
