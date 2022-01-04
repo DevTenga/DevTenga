@@ -18,7 +18,7 @@
 <a href="https://ansi.org/"><img src="https://img.shields.io/badge/ANSI%20C-1ca4d9?logo=c&style=for-the-badge&logoColor=1149CD" alt="ANSI C"></a>
 <a href="https://esolangs.org/wiki/Brainfuck/"><img src="https://img.shields.io/badge/Brainf%2a%2ak-red?logo=brain&style=for-the-badge"></a>
 ##### Tools:
-
+<a href="https://rebornos.org/"><img src="https://img.shields.io/badge/RebornOS-black?style=for-the-badge&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAAyklEQVQY033QMUsCAQAF4O%2B0KBFDRbNbLCQoUAiKppbm%2Bg%2F9zP6BUVtgNcVRklgddIKIZmc2WEtE3%2Fre8HiBhUbTL9Etlr6zg2OlqvEIcnlJvGhkoFZXqhoOmDM3HChV1erIajRtt%2FQftQ6lqeUV4abOpcqG6SRweibcspIzGTk6gfa51bz3sf5D5mfJ3F%2ByZqm1sqfIzp77jl6kErpu%2B5y5ucpKYuV1u%2Ftee2apj6m3WFgX3elcZOC5K4kVigQECkVJ7KWL4P9bvgCGt0VfSpa0OAAAAABJRU5ErkJggg%3D%3D" alt="RebornOS"></a>
 
 ##### Contacts
 <a href="https://discord.com/"><img src="https://img.shields.io/badge/Discord-Anurag____%231000-36393f?logo=discord&style=flat&logoColor=ffffff&labelColor=5662f6" alt="Discord"></a>
