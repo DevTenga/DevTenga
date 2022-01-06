@@ -18,7 +18,7 @@
 <a href="https://ansi.org/"><img src="https://img.shields.io/badge/ANSI%20C-1ca4d9?logo=c&style=for-the-badge&logoColor=1149CD" alt="ANSI C"></a>
 <a href="https://esolangs.org/wiki/Brainfuck/"><img src="https://img.shields.io/badge/Brainf%2a%2ak-red?logo=brain&style=for-the-badge"></a>
 ##### Tools:
-<a href="https://rebornos.org/"><img src="./reborn-link.txt" alt="RebornOS"></a>
+<a href="https://rebornos.org/"><img src="reborn-link.txt" alt="RebornOS"></a>
 <a href=""><img src="https://img.shields.io/badge/Sublime%20Text-black?style=for-the-badge&logo=sublimetext" alt="Sublime Text"></a>
 
 ##### Contacts
