@@ -22,4 +22,4 @@
 <a href=""><img src="https://img.shields.io/badge/Sublime%20Text-black?style=for-the-badge&logo=sublimetext" alt="Sublime Text"></a>
 
 ##### Contacts
-<a href="https://discord.com/"><img src="https://img.shields.io/badge/Discord-Anurag____%231000-36393f?logo=discord&style=flat&logoColor=ffffff&labelColor=5662f6" alt="Discord"></a>
+<a href="https://discord.com/"><img src="https://img.shields.io/badge/Discord-Anurag%232117-36393f?logo=discord&style=flat&logoColor=ffffff&labelColor=5662f6" alt="Discord"></a>
